@@ -1,3 +1,41 @@
+
+
+## 4. Final Source Code
+
+Here is the complete and final code for the project.
+
+### `Properties/AssemblyInfo.cs`
+```csharp
+using System.Reflection;
+using System.Runtime.InteropServices;
+using Rhino.PlugIns;
+
+// Plug-in Description Attributes
+[assembly: PlugInDescription(DescriptionType.WebSite, "")]
+[assembly: PlugInDescription(DescriptionType.Email, "your.email@example.com")]
+[assembly: PlugInDescription(DescriptionType.Organization, "Your Name or Company")]
+[assembly.PlugInDescription(DescriptionType.Country, "")]
+
+// This is the unique GUID for your plugin
+[assembly: Guid("A8B8E6F2-8A7B-4A1E-9C8A-3E3B6E1D1F2A")]
+
+// Assembly Info
+[assembly: AssemblyTitle("MetalWeight")]
+[assembly: AssemblyDescription("Metal Weight Calculator Plug-In")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("Your Name or Company")]
+[assembly: AssemblyProduct("MetalWeight")]
+[assembly: AssemblyCopyright("Copyright © 2025 Your Name")]
+[assembly: ComVisible(false)]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+
+
+
+
+
+
+
 MetalWeightPlugIn.cs
 
 C#

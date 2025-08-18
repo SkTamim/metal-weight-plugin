@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Gold Waight\GoldWeight\obj\Debug\GoldWeight.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gold Waight\GoldWeight\bin\Debug\GoldWeight.dll
+C:\Users\User\Desktop\Gold Waight\GoldWeight\bin\Debug\GoldWeight.pdb
+C:\Users\User\Desktop\Gold Waight\GoldWeight\bin\Debug\RhinoCommon.dll
+C:\Users\User\Desktop\Gold Waight\GoldWeight\bin\Debug\RhinoCommon.xml
+C:\Users\User\Desktop\Gold Waight\GoldWeight\obj\Debug\GoldWeight.csproj.CopyComplete
+C:\Users\User\Desktop\Gold Waight\GoldWeight\obj\Debug\GoldWeight.dll
+C:\Users\User\Desktop\Gold Waight\GoldWeight\obj\Debug\GoldWeight.pdb
+D:\Tamim\scripts\plugins\Gold Waight\GoldWeight\obj\Debug\GoldWeight.csproj.CoreCompileInputs.cache
+D:\Tamim\scripts\plugins\Gold Waight\GoldWeight\obj\Debug\GoldWeight.dll
+D:\Tamim\scripts\plugins\Gold Waight\GoldWeight\obj\Debug\GoldWeight.pdb
+D:\Tamim\scripts\plugins\Gold Waight\GoldWeight\bin\Debug\GoldWeight.dll
+D:\Tamim\scripts\plugins\Gold Waight\GoldWeight\bin\Debug\GoldWeight.pdb
+D:\Tamim\scripts\plugins\Gold Waight\GoldWeight\bin\Debug\RhinoCommon.xml
+D:\Tamim\scripts\plugins\Gold Waight\GoldWeight\obj\Debug\GoldWeight.csproj.CopyComplete
+D:\Tamim\scripts\plugins\Gold Waight\GoldWeight\bin\Debug\RhinoCommon.dll

@@ -16,11 +16,11 @@
 
 This guide explains how to install and run your custom `MetalWeight` plugin.
 
-### Installation
-1.  **Download the rhp file:** [Click Here](https://github.com/SkTamim/metal-weight-plugin/raw/refs/heads/main/MetalWeight/bin/Debug/MetalWeight.rhp)
+## 📦 Installation
+1.  **Download the rhp file:** Download the latest release from the **[Releases](https://github.com/SkTamim/metal-weight-plugin/releases)** page.
 2.  **Locate the Plugin File:** After downloading the file, find the `MetalWeight.rhp`.
-3.  **Install in Rhino/Matrix:** Open Rhino 5 or Matrix 9. Drag and drop the unblocked `MetalWeight.rhp` file directly onto the main window or open `plugin manager` and install the plugin.
-4.  4.    **If you are still confused, go and watch the tutorial Video on Installation, [Click Here]()**
+3.  **Install in Rhino/Matrix:** Open Rhino 5 or Matrix 9. Drag and drop the `MetalWeight.rhp` file directly onto the main window or open `plugin manager` and install the plugin.
+4.  **If you are still confused, go and watch the tutorial Video on Installation, [Click Here]()**
 
 ---
 

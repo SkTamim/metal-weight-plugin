@@ -1,10 +1,12 @@
 # MetalWeight Plugin for Rhino 5 and Matrix 9
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub release](https://img.shields.io/github/v/release/SkTamim/metal-weight-plugin)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![GitHub all releases](https://img.shields.io/github/downloads/SkTamim/metal-weight-plugin/total)
-![GitHub stars](https://img.shields.io/github/stars/SkTamim/metal-weight-plugin?style=social)
+![License: MIT](https://img.shields.io/badge/License-MIT-02c24f.svg)
+![GitHub Release](https://img.shields.io/github/v/release/SkTamim/metal-weight-plugin?color=0f6afc)
+![Build](https://img.shields.io/badge/build-Passing-02b82f)
+![GitHub all releases](https://img.shields.io/github/downloads/SkTamim/metal-weight-plugin/total?color=c80afc)
+![GitHub stars](https://img.shields.io/github/stars/SkTamim/metal-weight-plugin?style=social&color=yellow)
+
+
 
 
 

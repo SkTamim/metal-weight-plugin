@@ -1,0 +1,9 @@
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\bin\Release\MetalWeight.dll
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\bin\Release\MetalWeight.pdb
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\bin\Release\RhinoCommon.dll
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\bin\Release\RhinoCommon.xml
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\obj\Release\MetalWeight.csprojAssemblyReference.cache
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\obj\Release\MetalWeight.csproj.CoreCompileInputs.cache
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\obj\Release\MetalWeight.csproj.CopyComplete
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\obj\Release\MetalWeight.dll
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\obj\Release\MetalWeight.pdb

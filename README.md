@@ -1,6 +1,14 @@
 # MetalWeight Plugin for Rhino 5 and Matrix 9
 
- The **MetalWeight** is a powerful plugin for Rhino 5 and Matrix 9. It will help jewellery CAD designers to know the weight of any metal based on multiplication. (Like - 22k Gold, 18K Gold, Silver, etc.)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub release](https://img.shields.io/github/v/release/SkTamim/metal-weight-plugin)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![GitHub all releases](https://img.shields.io/github/downloads/SkTamim/metal-weight-plugin/total)
+![GitHub stars](https://img.shields.io/github/stars/SkTamim/metal-weight-plugin?style=social)
+
+
+
+ > The **MetalWeight** is a powerful plugin for Rhino 5 and Matrix 9. It will help jewellery CAD designers to know the weight of any metal based on multiplication. (Like - 22k Gold, 18K Gold, Silver, etc.)
 
 ---
 

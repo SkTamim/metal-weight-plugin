@@ -150,7 +150,7 @@ namespace MetalWeight
             double estimatedWeight = totalVolume * density;
 
             RhinoApp.WriteLine("--- Weight Calculation Results ---");
-            RhinoApp.WriteLine($"Total Volume = {doc.ModelUnitSystem.ToString().ToLower()}");
+            RhinoApp.WriteLine($"Total Volume = {totalVolume}");
             RhinoApp.WriteLine($"Estimated Weight = {Math.Round(estimatedWeight, 2)} grams");
 
             return Result.Success;

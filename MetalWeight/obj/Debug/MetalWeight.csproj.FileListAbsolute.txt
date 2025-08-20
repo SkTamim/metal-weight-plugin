@@ -6,3 +6,12 @@ D:\Tamim\scripts\plugins\Gold Waight\MetalWeight\bin\Debug\RhinoCommon.xml
 D:\Tamim\scripts\plugins\Gold Waight\MetalWeight\obj\Debug\MetalWeight.csproj.CopyComplete
 D:\Tamim\scripts\plugins\Gold Waight\MetalWeight\obj\Debug\MetalWeight.dll
 D:\Tamim\scripts\plugins\Gold Waight\MetalWeight\obj\Debug\MetalWeight.pdb
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\bin\Debug\MetalWeight.dll
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\bin\Debug\MetalWeight.pdb
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\bin\Debug\RhinoCommon.dll
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\bin\Debug\RhinoCommon.xml
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\obj\Debug\MetalWeight.csprojAssemblyReference.cache
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\obj\Debug\MetalWeight.csproj.CoreCompileInputs.cache
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\obj\Debug\MetalWeight.csproj.CopyComplete
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\obj\Debug\MetalWeight.dll
+D:\Tamim\scripts\plugins\Metal Waight\MetalWeight\obj\Debug\MetalWeight.pdb

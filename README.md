@@ -21,8 +21,9 @@ This guide explains how to install and run your custom `MetalWeight` plugin.
 ## 📦 Installation
 1.  **Download the rhp file:** Download the latest release from the **[Releases](https://github.com/SkTamim/metal-weight-plugin/releases)** page.
 2.  **Locate the Plugin File:** After downloading the file, find the `MetalWeight.rhp`.
-3.  **Install in Rhino/Matrix:** Open Rhino 5 or Matrix 9. Drag and drop the `MetalWeight.rhp` file directly onto the main window or open `plugin manager` and install the plugin.
-4.  **If you are still confused, go and watch the tutorial Video on Installation, [Click Here]()**
+3. **Unblock the File:** This is a crucial step. Right-click on the `MetalWeight.rhp` file, select **Properties**, check the **"Unblock"** box at the bottom of the General tab, and click **OK**. If you don't see the Unblock box, the file is not blocked.
+4.  **Install in Rhino/Matrix:** Open Rhino 5 or Matrix 9. Drag and drop the `MetalWeight.rhp` file directly onto the main window or open `plugin manager` and install the plugin.
+5.  **If you are still confused, go and watch the tutorial Video on Installation, [Click Here](https://youtu.be/W23O_ehUYwA)**
 
 ---
 
@@ -34,7 +35,7 @@ This guide explains how to install and run your custom `MetalWeight` plugin.
     * If you have nothing selected, the command will prompt you to "Select solids or meshes".
 3.  **Enter Density:** After the objects are selected, the command line will prompt you to enter the density (the "multiplication number") for your chosen metal. The default value is `17.0`. Type your desired number and press **Enter**.
 4.  **View Results:** The plugin will calculate the total volume and estimated weight. The results will be printed to the Rhino command line history.
-5.  4.  **To watch the demo video, [Click Here]()**
+5.  4.  **To watch the demo video, [Click Here](https://youtu.be/NaSi1f01wlo)**
 
 ### Features
 

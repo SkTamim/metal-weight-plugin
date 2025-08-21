@@ -35,7 +35,7 @@ This guide explains how to install and run your custom `MetalWeight` plugin.
     * If you have nothing selected, the command will prompt you to "Select solids or meshes".
 3.  **Enter Density:** After the objects are selected, the command line will prompt you to enter the density (the "multiplication number") for your chosen metal. The default value is `17.0`. Type your desired number and press **Enter**.
 4.  **View Results:** The plugin will calculate the total volume and estimated weight. The results will be printed to the Rhino command line history.
-5.  4.  **To watch the demo video, [Click Here](https://youtu.be/NaSi1f01wlo)**
+5.  **To watch the demo video, [Click Here](https://youtu.be/NaSi1f01wlo)**
 
 ### Features
 
